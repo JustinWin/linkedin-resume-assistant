@@ -1,1 +1,1 @@
-# linkedin-resume-assistance
+# linkedin-resume-assistant
